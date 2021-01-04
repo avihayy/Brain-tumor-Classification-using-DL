@@ -24,6 +24,6 @@ include:
 
 Note- the link for Google Colad is attached , the readme for google colab is also located there.
 
-**link for Google Colab** - https://drive.google.com/drive/folders/1u-reMvye_VSz3PEW6LB27JOc4dTityQt?usp=sharing
+**link for our project in Google Colab** - https://drive.google.com/drive/folders/1u-reMvye_VSz3PEW6LB27JOc4dTityQt?usp=sharing
 
 **link for the dataset** -  https://drive.google.com/drive/folders/1hZnBShvi4b8hFQIFrM4GOrIb6cLIgDAj
