@@ -26,4 +26,4 @@ Note- the link for Google Colad is attached , the readme for google colab is als
 
 **link for our project in Google Colab** - https://drive.google.com/drive/folders/1u-reMvye_VSz3PEW6LB27JOc4dTityQt?usp=sharing
 
-**link for the dataset** -  https://drive.google.com/drive/folders/1hZnBShvi4b8hFQIFrM4GOrIb6cLIgDAj
+**link for the dataset** -  https://drive.google.com/drive/folders/1hZnBShvi4b8hFQIFrM4GOrIb6cLIgDAj?usp=sharing
